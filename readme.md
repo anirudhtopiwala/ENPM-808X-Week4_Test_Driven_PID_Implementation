@@ -1,6 +1,6 @@
-# C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+# ENPM 808X- Week4 - PID Implementation using Test Driven Development
+[![Build Status](https://travis-ci.com/anirudhtopiwala/ENPM-808X-Week4_Test_Driven_PID_Implementation.svg?branch=master)](https://travis-ci.com/anirudhtopiwala/ENPM-808X-Week4_Test_Driven_PID_Implementation)
+[![Coverage Status](https://coveralls.io/repos/github/anirudhtopiwala/ENPM-808X-Week4_Test_Driven_PID_Implementation/badge.svg?branch=master)](https://coveralls.io/github/anirudhtopiwala/ENPM-808X-Week4_Test_Driven_PID_Implementation?branch=master)
 ---
 
 ## Overview
