@@ -1,4 +1,4 @@
-# Install script for directory: /home/anirudh/cpp-boilerplate
+# Install script for directory: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,9 +34,9 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/anirudh/cpp-boilerplate/build/app/cmake_install.cmake")
-  include("/home/anirudh/cpp-boilerplate/build/test/cmake_install.cmake")
-  include("/home/anirudh/cpp-boilerplate/build/vendor/googletest/googletest/cmake_install.cmake")
+  include("/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/app/cmake_install.cmake")
+  include("/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/test/cmake_install.cmake")
+  include("/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/vendor/googletest/googletest/cmake_install.cmake")
 
 endif()
 
@@ -48,5 +48,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/anirudh/cpp-boilerplate/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

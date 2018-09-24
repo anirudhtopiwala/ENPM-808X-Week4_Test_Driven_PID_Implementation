@@ -1,4 +1,4 @@
-# Install script for directory: /home/anirudh/cpp-boilerplate/app
+# Install script for directory: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

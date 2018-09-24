@@ -12,7 +12,7 @@ Pair B: Part1 - Driver: Anirudh Topiwala Navigator: Bharat Mathur
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
+git clone --recursive https://github.com/anirudhtopiwala/ENPM-808X Week4_Test_Driven_PID_Implementation.git
 cd <path to repository>
 mkdir build
 cd build
@@ -39,7 +39,7 @@ In your Eclipse workspace directory (or create a new one), checkout the repo (an
 ```
 mkdir -p ~/workspace
 cd ~/workspace
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
+git clone --recursive https://github.com/anirudhtopiwala/ENPM-808X-Week4_Test_Driven_PID_Implementation.git
 ```
 
 In your work directory, use cmake to create an Eclipse project for an [out-of-source build] of cpp-boilerplate
