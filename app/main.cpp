@@ -2,9 +2,9 @@
 /**
  * @file    main.cpp
  * @author  Anirudh Topiwala (anirudhtopiwala)
+ * @author Anirudh Topiwala (Driver) and Bharat Mathur (Navigator)
  * @date    9/23/2018
  * @version 1.0
- *
  * @brief   Code to run Controller_PID class.
  *
  * @section DESCRIPTION
@@ -21,5 +21,8 @@
  * @return Program execution status
  */
 int main() {
+/**
+ * Create an object for class Controller_PID and call the compute method.
+ */
   return 0;
 }
