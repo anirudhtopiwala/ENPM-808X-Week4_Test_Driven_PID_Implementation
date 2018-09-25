@@ -169,6 +169,33 @@ cpp-test/fast:
 	cd "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build" && $(MAKE) -f test/CMakeFiles/cpp-test.dir/build.make test/CMakeFiles/cpp-test.dir/build
 .PHONY : cpp-test/fast
 
+__/app/Controller_PID.o: __/app/Controller_PID.cpp.o
+
+.PHONY : __/app/Controller_PID.o
+
+# target to build an object file
+__/app/Controller_PID.cpp.o:
+	cd "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build" && $(MAKE) -f test/CMakeFiles/cpp-test.dir/build.make test/CMakeFiles/cpp-test.dir/__/app/Controller_PID.cpp.o
+.PHONY : __/app/Controller_PID.cpp.o
+
+__/app/Controller_PID.i: __/app/Controller_PID.cpp.i
+
+.PHONY : __/app/Controller_PID.i
+
+# target to preprocess a source file
+__/app/Controller_PID.cpp.i:
+	cd "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build" && $(MAKE) -f test/CMakeFiles/cpp-test.dir/build.make test/CMakeFiles/cpp-test.dir/__/app/Controller_PID.cpp.i
+.PHONY : __/app/Controller_PID.cpp.i
+
+__/app/Controller_PID.s: __/app/Controller_PID.cpp.s
+
+.PHONY : __/app/Controller_PID.s
+
+# target to generate assembly for a file
+__/app/Controller_PID.cpp.s:
+	cd "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build" && $(MAKE) -f test/CMakeFiles/cpp-test.dir/build.make test/CMakeFiles/cpp-test.dir/__/app/Controller_PID.cpp.s
+.PHONY : __/app/Controller_PID.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -236,6 +263,9 @@ help:
 	@echo "... install/strip"
 	@echo "... install/local"
 	@echo "... edit_cache"
+	@echo "... __/app/Controller_PID.o"
+	@echo "... __/app/Controller_PID.i"
+	@echo "... __/app/Controller_PID.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
