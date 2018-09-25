@@ -23,16 +23,17 @@ Controller_PID::Controller_PID() {
 
 /**
  * @brief Constructs the PidController object with user defined values
- * @Param1: userkp is the value of kp entered by user
- * @Param2: userkd is the value of kp entered by user
- * @Param3: userki is the value of kp entered by user
- * @Param4: userdt is the value of dt or sample time entered by user
+ * @Param1: kp_input is the value of kp entered by user
+ * @Param2: kd_input is the value of kp entered by user
+ * @Param3: ki_input is the value of kp entered by user
+ * @Param4: dt_input is the value of dt or sample time entered by user
  */
-Controller_PID::Controller_PID(double userKp, double userKi, double userKd,
-                               double userdt) {
+Controller_PID::Controller_PID(double Kp_input, double Ki_input, double Kd_input,
+                               double dt_input) {
 }
 /**
  * @brief Computes the velocity based on target and actual velocity
+ *
  * @Param1 referece_vel is the target velocity which needs to be achieved.
  * @param2 current_vel is the current velocity
  */
