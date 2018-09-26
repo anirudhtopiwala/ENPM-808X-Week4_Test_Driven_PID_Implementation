@@ -3,6 +3,8 @@
 *
 * @file    Controller_PID.hpp
 * @author  Anirudh Topiwala (anirudhtopiwala)
+* @author  Part 1 : Anirudh Topiwala (Driver) , Bharat Mathur (Navigator)
+*
 * @date    9/23/2018
 * @version 1.0
 *

@@ -3,6 +3,7 @@
  *
  * @file    Controller_PID.hpp
  * @author  Anirudh Topiwala
+ * @author  Part 1 : Anirudh Topiwala (Driver) , Bharat Mathur (Navigator)
  * @date    9/23/2018
  * @version 1.0
  *
@@ -29,10 +30,10 @@
  */
 class Controller_PID {
  private:
-  double Kp = 0.0;
+  double Kp = 1.0;
   double Kd = 0.0;
   double Ki = 0.0;
-  double dt = 0.0;
+  double dt = 0.5;
 
  public:
   /**
@@ -49,7 +50,6 @@ class Controller_PID {
    *
    */
   Controller_PID(double Kp, double Ki, double Kd, double dt);
-
   /**
    * @brief This method computes the new velocity using current and reference velocities as inputs
    *
@@ -57,6 +57,10 @@ class Controller_PID {
    * @param2 current_vel is the current velocity
    */
   double compute(double reference_vel, double current_vel);
+  /**
+   * @brief This method returns the sampling time dt
+   */
+  double returndt();
 
   ~Controller_PID();
 };

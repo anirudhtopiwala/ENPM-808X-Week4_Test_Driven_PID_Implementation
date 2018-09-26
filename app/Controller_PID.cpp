@@ -2,6 +2,7 @@
 /**
  * @file    main.cpp
  * @author  Anirudh Topiwala (anirudhtopiwala)
+ * @author  Part 1 : Anirudh Topiwala (Driver) , Bharat Mathur (Navigator)
  * @date    9/23/2018
  * @version 1.0
  *
@@ -23,14 +24,16 @@ Controller_PID::Controller_PID() {
 
 /**
  * @brief Constructs the PidController object with user defined values
+ *
  * @Param1: kp_input is the value of kp entered by user
  * @Param2: kd_input is the value of kp entered by user
  * @Param3: ki_input is the value of kp entered by user
  * @Param4: dt_input is the value of dt or sample time entered by user
  */
-Controller_PID::Controller_PID(double Kp_input, double Ki_input, double Kd_input,
-                               double dt_input) {
+Controller_PID::Controller_PID(double Kp_input, double Ki_input,
+                               double Kd_input, double dt_input) {
 }
+
 /**
  * @brief Computes the velocity based on target and actual velocity
  *
@@ -39,6 +42,13 @@ Controller_PID::Controller_PID(double Kp_input, double Ki_input, double Kd_input
  */
 double Controller_PID::compute(double reference_vel, double current_vel) {
   return 0.0;
+}
+
+/**
+ * @brief Method to return dt
+ */
+double Controller_PID::returndt() {
+  return 0;
 }
 
 /**
