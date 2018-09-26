@@ -20,7 +20,7 @@
 #include <memory>
 #include "Controller_PID.hpp"
 
-Controller_PID control(2,0,0,0.1);
+Controller_PID control(2, 0, 0, 0.1);
 /**
 *@brief Test Compute Function for a pure P controller
 */

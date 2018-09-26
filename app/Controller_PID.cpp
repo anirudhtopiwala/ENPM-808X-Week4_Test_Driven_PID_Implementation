@@ -48,7 +48,8 @@ Controller_PID::Controller_PID(double Kp_input, double Ki_input,
  * @param2 current_vel is the current velocity
  */
 double Controller_PID::compute(double reference_vel, double current_vel) {
-  double velocityDifference = reference_vel - current_vel;  // compute the velocity difference
+  double velocityDifference = reference_vel - current_vel;
+  // compute the velocity difference
   double calculatedVelocity = 0;
   if (dt > 0) {
     // compute the new velocity
@@ -56,7 +57,8 @@ double Controller_PID::compute(double reference_vel, double current_vel) {
         + (Ki * velocityDifference * dt) + (Kd * velocityDifference / dt);
   } else {
     std::cout
-        << "Time step has to be a non-negative value. Output velocity set to 0.";
+        << "Time step has to be a non-negative value. "
+            "Output velocity set to 0.";
     calculatedVelocity = 0;
   }
   return calculatedVelocity;
