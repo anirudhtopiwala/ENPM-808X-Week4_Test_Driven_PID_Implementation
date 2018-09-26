@@ -5,16 +5,17 @@
 
 ## TODO
 
-1) 
-
+* Run the tests iteratively so we can compute the error function for derivative and integral terms.
+* Write a test for constructor for better code coverage.
 
 ## Overview
 
 Week 4 ENPM 808X Assignment
 This is a simple implementeation of a PID Controller.
 
-Pair B: Part1 - **Driver: Anirudh Topiwala Navigator: Bharat Mathur**	
-        Part2 - **Driver: Akash Guha Navigator: Rohitkrishna Nambiar**
+Pair B: 
+* Part1 - Driver: **Anirudh Topiwala** Navigator: **Bharat Mathur** 
+* Part2 - Driver: **Akash Guha**       Navigator: **Rohitkrishna Nambiar**
 
 ## Standard install via command-line
 ```

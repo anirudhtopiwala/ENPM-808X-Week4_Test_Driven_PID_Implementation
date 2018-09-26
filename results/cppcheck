@@ -1,8 +1,11 @@
 anirudh@anirudh-Inspiron-7577:~/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven$ cppcheck --enable=all --std=c++11 -I include/ --suppress=missingIncludeSystem $( find . -name *.cpp | grep -vE -e "^./build/" -e "^./vendor/" )
 
 Checking app/Controller_PID.cpp...
-1/2 files checked 66% done
+1/4 files checked 44% done
 Checking app/main.cpp...
-2/2 files checked 100% done
-[app/Controller_PID.cpp:33]: (style) The function 'compute' is never used.
+2/4 files checked 74% done
+Checking test/main.cpp...
+3/4 files checked 84% done
+Checking test/test.cpp...
+4/4 files checked 100% done
 
