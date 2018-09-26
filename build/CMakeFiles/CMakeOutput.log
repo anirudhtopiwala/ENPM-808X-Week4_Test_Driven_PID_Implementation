@@ -1,4 +1,4 @@
-The system is: Linux - 4.15.0-34-generic - x86_64
+The system is: Linux - 4.15.0-33-generic - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/3.5.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/3.5.1/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/3.5.1/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_84c96/fast"
-/usr/bin/make -f CMakeFiles/cmTC_84c96.dir/build.make CMakeFiles/cmTC_84c96.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_84c96.dir/testCCompiler.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_84c96.dir/testCCompiler.c.o   -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp/testCCompiler.c"
-Linking C executable cmTC_84c96
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_84c96.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_84c96.dir/testCCompiler.c.o  -o cmTC_84c96 -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_e08a3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e08a3.dir/build.make CMakeFiles/cmTC_e08a3.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e08a3.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_e08a3.dir/testCCompiler.c.o   -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_e08a3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e08a3.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_e08a3.dir/testCCompiler.c.o  -o cmTC_e08a3 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d6910/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d6910.dir/build.make CMakeFiles/cmTC_d6910.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_d6910
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6910.dir/link.txt --verbose=1
-/usr/bin/cc      -v CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o  -o cmTC_d6910 -rdynamic  
+Run Build Command:"/usr/bin/make" "cmTC_70ba1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_70ba1.dir/build.make CMakeFiles/cmTC_70ba1.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_70ba1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70ba1.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o  -o cmTC_70ba1 -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d6910' '-rdynamic' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3DEA26.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_d6910 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_70ba1' '-rdynamic' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cclJ4xUp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_70ba1 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_d6910/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_d6910.dir/build.make CMakeFiles/cmTC_d6910.dir/build]
-  ignore line: [make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_d6910]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6910.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o  -o cmTC_d6910 -rdynamic  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_70ba1/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_70ba1.dir/build.make CMakeFiles/cmTC_70ba1.dir/build]
+  ignore line: [make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.5/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_70ba1]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_70ba1.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o  -o cmTC_70ba1 -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_d6910' '-rdynamic' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cc3DEA26.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_d6910 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_70ba1' '-rdynamic' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/cclJ4xUp.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_70ba1 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc3DEA26.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cclJ4xUp.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -109,7 +109,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_d6910] ==> ignore
+    arg [cmTC_70ba1] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -121,7 +121,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_d6910.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_70ba1.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -153,17 +153,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_920fe/fast"
-/usr/bin/make -f CMakeFiles/cmTC_920fe.dir/build.make CMakeFiles/cmTC_920fe.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_920fe.dir/feature_tests.c.o
-/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_920fe.dir/feature_tests.c.o   -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_920fe
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_920fe.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_920fe.dir/feature_tests.c.o  -o cmTC_920fe -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2ae00/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2ae00.dir/build.make CMakeFiles/cmTC_2ae00.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2ae00.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_2ae00.dir/feature_tests.c.o   -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_2ae00
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ae00.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_2ae00.dir/feature_tests.c.o  -o cmTC_2ae00 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -173,17 +173,17 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7abc6/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7abc6.dir/build.make CMakeFiles/cmTC_7abc6.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7abc6.dir/feature_tests.c.o
-/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_7abc6.dir/feature_tests.c.o   -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_7abc6
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7abc6.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_7abc6.dir/feature_tests.c.o  -o cmTC_7abc6 -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_330e0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_330e0.dir/build.make CMakeFiles/cmTC_330e0.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_330e0.dir/feature_tests.c.o
+/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_330e0.dir/feature_tests.c.o   -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_330e0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_330e0.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_330e0.dir/feature_tests.c.o  -o cmTC_330e0 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -193,17 +193,17 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_5a9a5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_5a9a5.dir/build.make CMakeFiles/cmTC_5a9a5.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_5a9a5.dir/feature_tests.c.o
-/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_5a9a5.dir/feature_tests.c.o   -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.c"
-Linking C executable cmTC_5a9a5
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a9a5.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_5a9a5.dir/feature_tests.c.o  -o cmTC_5a9a5 -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_eb1af/fast"
+/usr/bin/make -f CMakeFiles/cmTC_eb1af.dir/build.make CMakeFiles/cmTC_eb1af.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eb1af.dir/feature_tests.c.o
+/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_eb1af.dir/feature_tests.c.o   -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_eb1af
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eb1af.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_eb1af.dir/feature_tests.c.o  -o cmTC_eb1af -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -211,30 +211,30 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_f0189/fast"
-/usr/bin/make -f CMakeFiles/cmTC_f0189.dir/build.make CMakeFiles/cmTC_f0189.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f0189.dir/testCXXCompiler.cxx.o
-/usr/bin/c++      -o CMakeFiles/cmTC_f0189.dir/testCXXCompiler.cxx.o -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
-Linking CXX executable cmTC_f0189
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f0189.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_f0189.dir/testCXXCompiler.cxx.o  -o cmTC_f0189 -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_f9b7c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f9b7c.dir/build.make CMakeFiles/cmTC_f9b7c.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f9b7c.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_f9b7c.dir/testCXXCompiler.cxx.o -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx"
+Linking CXX executable cmTC_f9b7c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f9b7c.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_f9b7c.dir/testCXXCompiler.cxx.o  -o cmTC_f9b7c -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_aae97/fast"
-/usr/bin/make -f CMakeFiles/cmTC_aae97.dir/build.make CMakeFiles/cmTC_aae97.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++      -o CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_aae97
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aae97.dir/link.txt --verbose=1
-/usr/bin/c++       -v CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_aae97 -rdynamic  
+Run Build Command:"/usr/bin/make" "cmTC_2300e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2300e.dir/build.make CMakeFiles/cmTC_2300e.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_2300e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2300e.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_2300e -rdynamic  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -244,23 +244,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aae97' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjFhyAp.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_aae97 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2300e' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMNsOUI.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_2300e /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_aae97/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_aae97.dir/build.make CMakeFiles/cmTC_aae97.dir/build]
-  ignore line: [make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_aae97]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aae97.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_aae97 -rdynamic  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_2300e/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_2300e.dir/build.make CMakeFiles/cmTC_2300e.dir/build]
+  ignore line: [make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.5/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_2300e]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2300e.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_2300e -rdynamic  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -270,13 +270,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.10) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_aae97' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccjFhyAp.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_aae97 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_2300e' '-rdynamic' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMNsOUI.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_2300e /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccjFhyAp.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccMNsOUI.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -294,7 +294,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_aae97] ==> ignore
+    arg [cmTC_2300e] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -306,7 +306,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_aae97.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_2300e.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -336,17 +336,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_50a8b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_50a8b.dir/build.make CMakeFiles/cmTC_50a8b.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_50a8b.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_50a8b.dir/feature_tests.cxx.o -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_50a8b
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_50a8b.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_50a8b.dir/feature_tests.cxx.o  -o cmTC_50a8b -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_fafa9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fafa9.dir/build.make CMakeFiles/cmTC_fafa9.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_fafa9.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_fafa9.dir/feature_tests.cxx.o -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_fafa9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fafa9.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_fafa9.dir/feature_tests.cxx.o  -o cmTC_fafa9 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -409,17 +409,17 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1bfaa/fast"
-/usr/bin/make -f CMakeFiles/cmTC_1bfaa.dir/build.make CMakeFiles/cmTC_1bfaa.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_1bfaa.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_1bfaa.dir/feature_tests.cxx.o -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_1bfaa
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1bfaa.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_1bfaa.dir/feature_tests.cxx.o  -o cmTC_1bfaa -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_525e6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_525e6.dir/build.make CMakeFiles/cmTC_525e6.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_525e6.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_525e6.dir/feature_tests.cxx.o -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_525e6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_525e6.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_525e6.dir/feature_tests.cxx.o  -o cmTC_525e6 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -482,17 +482,17 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7b346/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7b346.dir/build.make CMakeFiles/cmTC_7b346.dir/build
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7b346.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_7b346.dir/feature_tests.cxx.o -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/feature_tests.cxx"
-Linking CXX executable cmTC_7b346
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7b346.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_7b346.dir/feature_tests.cxx.o  -o cmTC_7b346 -rdynamic 
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_65e09/fast"
+/usr/bin/make -f CMakeFiles/cmTC_65e09.dir/build.make CMakeFiles/cmTC_65e09.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_65e09.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_65e09.dir/feature_tests.cxx.o -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/feature_tests.cxx"
+Linking CXX executable cmTC_65e09
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65e09.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_65e09.dir/feature_tests.cxx.o  -o cmTC_65e09 -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -553,34 +553,30 @@ make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the include file pthread.h exists passed with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_16ffe/fast"
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_16ffe.dir/build.make CMakeFiles/cmTC_16ffe.dir/build
-make[2]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_16ffe.dir/CheckIncludeFile.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_16ffe.dir/CheckIncludeFile.c.o   -c "/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
-Linking C executable cmTC_16ffe
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_16ffe.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_16ffe.dir/CheckIncludeFile.c.o  -o cmTC_16ffe -rdynamic 
-make[2]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_df5cc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_df5cc.dir/build.make CMakeFiles/cmTC_df5cc.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_df5cc.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_df5cc.dir/CheckIncludeFile.c.o   -c "/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+Linking C executable cmTC_df5cc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_df5cc.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_df5cc.dir/CheckIncludeFile.c.o  -o cmTC_df5cc -rdynamic 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
 Determining if the function pthread_create exists in the pthread passed with the following output:
-Change Dir: /home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp
+Change Dir: /home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0e5f1/fast"
-make[1]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-/usr/bin/make -f CMakeFiles/cmTC_0e5f1.dir/build.make CMakeFiles/cmTC_0e5f1.dir/build
-make[2]: Entering directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_0e5f1.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_0e5f1.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_0e5f1
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e5f1.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_0e5f1.dir/CheckFunctionExists.c.o  -o cmTC_0e5f1 -rdynamic -lpthread 
-make[2]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
-make[1]: Leaving directory '/home/anirudh/Desktop/UMD SEM 3/808X-Software/week4/Cpp-boilerplate_testdriven/build/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_6b7dc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6b7dc.dir/build.make CMakeFiles/cmTC_6b7dc.dir/build
+make[1]: Entering directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6b7dc.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_6b7dc.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6b7dc
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6b7dc.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_6b7dc.dir/CheckFunctionExists.c.o  -o cmTC_6b7dc -rdynamic -lpthread 
+make[1]: Leaving directory '/home/akash/ENPM808X/Week 4/ENPM-808X-Week4_Test_Driven_PID_Implementation/build/CMakeFiles/CMakeTmp'
 
 
