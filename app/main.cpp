@@ -15,6 +15,7 @@
  */
 
 #include <iostream>
+#include <memory>
 #include "Controller_PID.hpp"
 
 /**
@@ -26,6 +27,21 @@ int main() {
   /**
    * Create an object for class Controller_PID and call the compute method.
    */
-  Controller_PID control(1.0, 1.0, 1.0, 1.0);
+  double setVelocity, kp, ki, kd, dt;  // stores desired velocity, proportional gain,
+
+  // integral gain, differential gain and time step.
+  std::cout
+      << "Please enter the desired proportional gain, integral gain, differential gain and time-step: ";
+  std::cin >> kp >> ki >> kd >> dt;  // accepts parameter values and stores in the corresponding variables.
+  std::cout << "\n Enter the desired velocity in m/s: ";
+  std::cin >> setVelocity;  // accepts desired velocity.
+
+  // create object of class Controller_PID
+  std::shared_ptr<Controller_PID> myPID;
+  myPID = std::make_shared < Controller_PID > (kp, ki, kd, dt);
+  double newVelocity = myPID->compute(setVelocity, 5.0);  // call the compute method to get the calculated velocity.
+
+  // Output the calculated velocity
+  std::cout << "New velocity is: " << newVelocity << " m/s" << std::endl;
   return 0;
 }
